@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ketan Soni</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [socio-sphere](https://github.com/Ketansoni04/Socio-sphere)
 
 - 🌱 I’m currently learning **React, SQL, Node**
-
-- 👯 I’m looking to collaborate on **Hacthon**
 
 - 🤝 I’m looking for help with **job**
 
